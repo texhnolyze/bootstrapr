@@ -1,0 +1,8 @@
+composer:
+    package_manager: 
+        install: 'composer install'
+        uninstall: 'composer remove'
+        search: 'composer search'
+        update: 'composer self-update'
+        upgrade: 'composer update'
+        clean: 'composer clear-cache'

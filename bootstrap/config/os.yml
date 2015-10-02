@@ -1,0 +1,7 @@
+debian:
+    package_manager: 
+        install: 'apt-get -y install'
+        uninstall: 'apt-get -y remove'
+        search: 'apt-cache search'
+        update: 'apt-get update'
+        upgrade: 'apt-get -y upgrade'

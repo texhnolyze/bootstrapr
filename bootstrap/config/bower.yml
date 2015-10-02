@@ -1,0 +1,8 @@
+bower:
+    package_manager: 
+        install: 'bower install'
+        uninstall: 'bower uninstall'
+        search: 'bower search'
+        update: ''
+        upgrade: 'bower update'
+        clean: 'bower prune'

@@ -1,0 +1,8 @@
+npm:
+    package_manager: 
+        install: 'npm install'
+        uninstall: 'npm uninstall'
+        search: 'npm search'
+        update: ''
+        upgrade: 'npm update'
+        clean: 'npm prune'
